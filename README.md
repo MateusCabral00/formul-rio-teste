@@ -6,12 +6,12 @@
 
   Nesse projeto objetiva-se praticar conceitos iniciais do Django, tais como:
   
-    1. Conhecer os módulos internos do Django que permitem a criação de formulários
-    2. Acessar o banco de dados interno do Django
-    3. Aprender a fazer validações no dados passados nos formulários
-    4. Criar mensagens de alerta que são dinâmicas ao seu conteúdo
-    5. Estruturar partials para evitar duplicação de código
-    6. Pratica o modelo de arquitetura MTV.
+    1.Conhecer os módulos internos do Django que permitem a criação de formulários
+    2.Acessar o banco de dados interno do Django
+    3.Aprender a fazer validações no dados passados nos formulários
+    4.Criar mensagens de alerta que são dinâmicas ao seu conteúdo
+    5.Estruturar partials para evitar duplicação de código
+    6.Pratica o modelo de arquitetura MTV.
 
 # Inicialização
 
